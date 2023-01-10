@@ -1,0 +1,5 @@
+-sql considera ca LUGOJAN EMANUEL este la fel cu Lugojan Emanuel, nu ii pasa daca litera e mica sau mare
+
+-change password
+
+-change profile picture
